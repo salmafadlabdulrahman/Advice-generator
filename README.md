@@ -24,7 +24,7 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
-
+![screencapture-127-0-0-1-5500-2023-07-24-18_35_51](https://github.com/salmafadlabdulrahman/Advice-generator/assets/88597694/2d20744b-322e-4c8a-a766-dbc864023dd2)
 
 ### Links
 
