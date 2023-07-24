@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salmafadlabdulrahman/Advice-generator)
-- Live Site URL: [Add live site URL here](https://exquisite-taffy-a9d5a5.netlify.app/)
+- Solution URL: (https://github.com/salmafadlabdulrahman/Advice-generator)
+- Live Site URL: (https://exquisite-taffy-a9d5a5.netlify.app/)
 
 ## My process
 
