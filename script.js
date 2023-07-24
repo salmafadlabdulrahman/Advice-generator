@@ -18,5 +18,5 @@ async function generateAdvice() {
   const theAdvice = data.slip.advice;
 
   adviceNum.textContent = `Advice #${adviceId}`;
-  advice.textContent = `${theAdvice}`;
+  advice.textContent = `"${theAdvice}"`;
 }
